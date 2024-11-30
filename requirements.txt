@@ -1,0 +1,6 @@
+fastapi[standard]
+SQLAlchemy
+psycopg2-binary
+bcrypt
+cloudinary
+python-dotenv
