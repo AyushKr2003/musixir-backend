@@ -4,3 +4,4 @@ psycopg2-binary
 bcrypt
 cloudinary
 python-dotenv
+PyJWT
